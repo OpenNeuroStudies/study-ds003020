@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
+ds003020	9	92	6	16	562	9	0	136689075522	30640737	243218995	378734.0	673.9039145907474	214135488	381024.0	anat,func
