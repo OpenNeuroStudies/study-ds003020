@@ -1,93 +1,93 @@
-source_id	subject_id	session_id	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds003020	sub-UTS01	ses-1	8	1	0	1058499548	2857719	2800.0	350.0	3048192	381024.0	anat,func
-ds003020	sub-UTS01	ses-10	7	0	0	1311390613	0	4510.0	644.2857142857143	2667168	381024.0	func
-ds003020	sub-UTS01	ses-11	7	0	0	1344336314	0	4624.0	660.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS01	ses-12	5	0	0	1158829337	0	3954.0	790.8	1905120	381024.0	func
-ds003020	sub-UTS01	ses-14	6	0	0	1115083728	0	3832.0	638.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS01	ses-15	6	0	0	1112521083	0	3782.0	630.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS01	ses-18	6	0	0	1155671639	0	3884.0	647.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS01	ses-2	6	0	0	1768118171	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS01	ses-20	6	0	0	1147386187	0	3794.0	632.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS01	ses-3	6	0	0	1779301058	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS01	ses-4	6	0	0	1720780262	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS01	ses-5	7	0	0	1833563559	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS01	ses-6	6	0	0	1727227558	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS01	ses-7	7	0	0	1515744270	0	5230.0	747.1428571428571	2667168	381024.0	func
-ds003020	sub-UTS01	ses-8	7	0	0	1348848781	0	4568.0	652.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS01	ses-9	6	0	0	1304073763	0	4514.0	752.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS02	ses-1	0	1	0	0	3385531	n/a	n/a	n/a	n/a	anat
-ds003020	sub-UTS02	ses-10	7	0	0	1415025846	0	4510.0	644.2857142857143	2667168	381024.0	func
-ds003020	sub-UTS02	ses-11	7	0	0	1442501186	0	4624.0	660.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS02	ses-12	5	0	0	1229620225	0	3954.0	790.8	1905120	381024.0	func
-ds003020	sub-UTS02	ses-14	6	0	0	1198620208	0	3832.0	638.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS02	ses-15	6	0	0	1167061279	0	3782.0	630.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS02	ses-18	6	0	0	1218034742	0	3884.0	647.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS02	ses-2	6	0	0	1876109514	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS02	ses-20	6	0	0	1187704887	0	3794.0	632.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS02	ses-3	6	0	0	1871982532	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS02	ses-4	6	0	0	1872967012	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS02	ses-5	7	0	0	1987506612	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS02	ses-6	6	0	0	1868519196	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS02	ses-7	6	0	0	1429168689	0	4600.0	766.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS02	ses-8	7	0	0	1415945865	0	4568.0	652.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS02	ses-9	6	0	0	1400479470	0	4514.0	752.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS03	ses-1	7	1	0	881847994	3555812	2150.0	307.14285714285717	2667168	381024.0	anat,func
-ds003020	sub-UTS03	ses-10	7	0	0	1400127470	0	4510.0	644.2857142857143	2667168	381024.0	func
-ds003020	sub-UTS03	ses-11	7	0	0	1441389103	0	4624.0	660.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS03	ses-12	5	0	0	1230331610	0	3954.0	790.8	1905120	381024.0	func
-ds003020	sub-UTS03	ses-14	6	0	0	1194009019	0	3832.0	638.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS03	ses-15	6	0	0	1166814273	0	3782.0	630.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS03	ses-18	6	0	0	1198565894	0	3884.0	647.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS03	ses-2	6	0	0	1863608183	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS03	ses-20	6	0	0	1173951263	0	3794.0	632.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS03	ses-3	6	0	0	1859354475	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS03	ses-4	6	0	0	1843010952	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS03	ses-5	8	0	0	2197705627	0	5450.0	681.25	3048192	381024.0	func
-ds003020	sub-UTS03	ses-6	6	0	0	1841268792	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS03	ses-7	6	0	0	1422163456	0	4600.0	766.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS03	ses-8	7	0	0	1419044047	0	4568.0	652.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS03	ses-9	6	0	0	1397150101	0	4514.0	752.3333333333334	2286144	381024.0	func
-ds003020	sub-UTS04	ses-1	8	1	0	1145258617	3628669	2800.0	350.0	3048192	381024.0	anat,func
-ds003020	sub-UTS04	ses-2	7	0	0	2121043576	0	5190.0	741.4285714285714	2667168	381024.0	func
-ds003020	sub-UTS04	ses-3	5	0	0	1536153480	0	3658.0	731.6	1905120	381024.0	func
-ds003020	sub-UTS04	ses-4	6	0	0	1895492801	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS04	ses-5	7	0	0	2009247207	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS04	ses-6	6	0	0	1926620577	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS05	ses-1	8	1	0	1125528715	3165682	2840.0	355.0	3048192	381024.0	anat,func
-ds003020	sub-UTS05	ses-2	6	0	0	1820532460	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS05	ses-3	6	0	0	1815072580	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS05	ses-4	6	0	0	1813177687	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS05	ses-5	7	0	0	1924399183	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS05	ses-6	6	0	0	1833958441	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS05	ses-7	1	0	0	249728173	0	630.0	630.0	381024	381024.0	func
-ds003020	sub-UTS06	ses-1	8	1	0	1106856532	2765677	2800.0	350.0	3048192	381024.0	anat,func
-ds003020	sub-UTS06	ses-2	6	0	0	1803928047	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS06	ses-3	6	0	0	1822449366	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS06	ses-4	6	0	0	1810567693	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS06	ses-5	7	0	0	1926834077	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS06	ses-6	6	0	0	1814313372	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS06	ses-7	1	0	0	249814027	0	630.0	630.0	381024	381024.0	func
-ds003020	sub-UTS07	ses-1	8	1	0	1169764503	3996168	2800.0	350.0	3048192	381024.0	anat,func
-ds003020	sub-UTS07	ses-2	6	0	0	1906205927	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS07	ses-3	6	0	0	1900062724	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS07	ses-4	6	0	0	1888729921	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS07	ses-5	7	0	0	2035442017	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS07	ses-6	6	0	0	1920659947	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS07	ses-7	1	0	0	262696286	0	630.0	630.0	381024	381024.0	func
-ds003020	sub-UTS08	ses-1	8	1	0	1169205738	3565018	2800.0	350.0	3048192	381024.0	anat,func
-ds003020	sub-UTS08	ses-2	6	0	0	1879602167	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS08	ses-3	7	0	0	2155468476	0	5188.0	741.1428571428571	2667168	381024.0	func
-ds003020	sub-UTS08	ses-4	6	0	0	1900444430	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS08	ses-5	7	0	0	2000557499	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS08	ses-6	6	0	0	1904228673	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS09	ses-1	9	1	0	1100140770	3720461	3430.0	381.1111111111111	3429216	381024.0	anat,func
-ds003020	sub-UTS09	ses-10	6	0	0	1235701232	0	3888.0	648.0	2286144	381024.0	func
-ds003020	sub-UTS09	ses-11	6	0	0	1230735343	0	4002.0	667.0	2286144	381024.0	func
-ds003020	sub-UTS09	ses-2	6	0	0	1439995512	0	4560.0	760.0	2286144	381024.0	func
-ds003020	sub-UTS09	ses-3	6	0	0	1443046601	0	4558.0	759.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS09	ses-4	5	0	0	1213424474	0	3822.0	764.4	1905120	381024.0	func
-ds003020	sub-UTS09	ses-5	7	0	0	1527485412	0	4820.0	688.5714285714286	2667168	381024.0	func
-ds003020	sub-UTS09	ses-6	6	0	0	1447550563	0	4576.0	762.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS09	ses-7	5	0	0	1262334465	0	3978.0	795.6	1905120	381024.0	func
-ds003020	sub-UTS09	ses-8	6	0	0	1249874322	0	3946.0	657.6666666666666	2286144	381024.0	func
-ds003020	sub-UTS09	ses-9	5	0	0	1181776516	0	3892.0	778.4	1905120	381024.0	func
+source_id	subject_id	session_id	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds003020	sub-UTS01	ses-1	8	1	0	1058499548	2857719	2800.0	350.0	3048192	381024.0	CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1400	{"2.0":8}	anat,func
+ds003020	sub-UTS01	ses-10	7	0	0	1311390613	0	4510.0	644.2857142857143	2667168	381024.0	catfishingstrangerstofindmyself,christmas1940,gpsformylostidentity,singlewomanseekingmanwich,superheroesjustforeachother,whenmothersbullyback,wheretheressmoke	2255	{"2.0":7}	func
+ds003020	sub-UTS01	ses-11	7	0	0	1344336314	0	4624.0	660.5714285714286	2667168	381024.0	againstthewind,bluehope,forgettingfear,ifthishaircouldtalk,lifereimagined,stumblinginthedark,wheretheressmoke	2312	{"2.0":7}	func
+ds003020	sub-UTS01	ses-12	5	0	0	1158829337	0	3954.0	790.8	1905120	381024.0	cocoonoflove,comingofageondeathrow,goldiethegoldfish,leavingbaghdad,quietfire	1977	{"2.0":5}	func
+ds003020	sub-UTS01	ses-14	6	0	0	1115083728	0	3832.0	638.6666666666666	2286144	381024.0	afatherscover,food,mybackseatviewofagreatromance,notontheusualtour,reachingoutbetweenthebars,wildwomenanddancingqueens	1916	{"2.0":6}	func
+ds003020	sub-UTS01	ses-15	6	0	0	1112521083	0	3782.0	630.3333333333334	2286144	381024.0	beneaththemushroomcloud,gangstersandcookies,golfclubbing,metsmagic,threemonths,vixenandtheussr	1891	{"2.0":6}	func
+ds003020	sub-UTS01	ses-18	6	0	0	1155671639	0	3884.0	647.3333333333334	2286144	381024.0	birthofanation,firetestforlove,listo,myfathershands,theadvancedbeginner,theshower	1942	{"2.0":6}	func
+ds003020	sub-UTS01	ses-2	6	0	0	1768118171	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS01	ses-20	6	0	0	1147386187	0	3794.0	632.3333333333334	2286144	381024.0	cautioneating,jugglingandjesus,mayorofthefreaks,thecurse,theinterview,thetriangleshirtwaistconnection	1897	{"2.0":6}	func
+ds003020	sub-UTS01	ses-3	6	0	0	1779301058	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS01	ses-4	6	0	0	1720780262	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS01	ses-5	7	0	0	1833563559	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS01	ses-6	6	0	0	1727227558	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS01	ses-7	7	0	0	1515744270	0	5230.0	747.1428571428571	2667168	381024.0	AuditoryLocalizer,breakingupintheageofgoogle,onlyonewaytofindout,penpal,shoppinginchina,treasureisland,wheretheressmoke	2615	{"2.0":7}	func
+ds003020	sub-UTS01	ses-8	7	0	0	1348848781	0	4568.0	652.5714285714286	2667168	381024.0	backsideofthestorm,goingthelibertyway,kiksuya,sweetaspie,thepostmanalwayscalls,thetiniestbouquet,wheretheressmoke	2284	{"2.0":7}	func
+ds003020	sub-UTS01	ses-9	6	0	0	1304073763	0	4514.0	752.3333333333334	2286144	381024.0	becomingindian,lifeanddeathontheoregontrail,thefreedomridersandme,thumbsup,waitingtogo,wheretheressmoke	2257	{"2.0":6}	func
+ds003020	sub-UTS02	ses-1	0	1	0	0	3385531	n/a	n/a	n/a	n/a	n/a	0	n/a	anat
+ds003020	sub-UTS02	ses-10	7	0	0	1415025846	0	4510.0	644.2857142857143	2667168	381024.0	catfishingstrangerstofindmyself,christmas1940,gpsformylostidentity,singlewomanseekingmanwich,superheroesjustforeachother,whenmothersbullyback,wheretheressmoke	2255	{"2.0":7}	func
+ds003020	sub-UTS02	ses-11	7	0	0	1442501186	0	4624.0	660.5714285714286	2667168	381024.0	againstthewind,bluehope,forgettingfear,ifthishaircouldtalk,lifereimagined,stumblinginthedark,wheretheressmoke	2312	{"2.0":7}	func
+ds003020	sub-UTS02	ses-12	5	0	0	1229620225	0	3954.0	790.8	1905120	381024.0	cocoonoflove,comingofageondeathrow,goldiethegoldfish,leavingbaghdad,quietfire	1977	{"2.0":5}	func
+ds003020	sub-UTS02	ses-14	6	0	0	1198620208	0	3832.0	638.6666666666666	2286144	381024.0	afatherscover,food,mybackseatviewofagreatromance,notontheusualtour,reachingoutbetweenthebars,wildwomenanddancingqueens	1916	{"2.0":6}	func
+ds003020	sub-UTS02	ses-15	6	0	0	1167061279	0	3782.0	630.3333333333334	2286144	381024.0	beneaththemushroomcloud,gangstersandcookies,golfclubbing,metsmagic,threemonths,vixenandtheussr	1891	{"2.0":6}	func
+ds003020	sub-UTS02	ses-18	6	0	0	1218034742	0	3884.0	647.3333333333334	2286144	381024.0	birthofanation,firetestforlove,listo,myfathershands,theadvancedbeginner,theshower	1942	{"2.0":6}	func
+ds003020	sub-UTS02	ses-2	6	0	0	1876109514	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS02	ses-20	6	0	0	1187704887	0	3794.0	632.3333333333334	2286144	381024.0	cautioneating,jugglingandjesus,mayorofthefreaks,thecurse,theinterview,thetriangleshirtwaistconnection	1897	{"2.0":6}	func
+ds003020	sub-UTS02	ses-3	6	0	0	1871982532	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS02	ses-4	6	0	0	1872967012	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS02	ses-5	7	0	0	1987506612	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS02	ses-6	6	0	0	1868519196	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS02	ses-7	6	0	0	1429168689	0	4600.0	766.6666666666666	2286144	381024.0	breakingupintheageofgoogle,onlyonewaytofindout,penpal,shoppinginchina,treasureisland,wheretheressmoke	2300	{"2.0":6}	func
+ds003020	sub-UTS02	ses-8	7	0	0	1415945865	0	4568.0	652.5714285714286	2667168	381024.0	backsideofthestorm,goingthelibertyway,kiksuya,sweetaspie,thepostmanalwayscalls,thetiniestbouquet,wheretheressmoke	2284	{"2.0":7}	func
+ds003020	sub-UTS02	ses-9	6	0	0	1400479470	0	4514.0	752.3333333333334	2286144	381024.0	becomingindian,lifeanddeathontheoregontrail,thefreedomridersandme,thumbsup,waitingtogo,wheretheressmoke	2257	{"2.0":6}	func
+ds003020	sub-UTS03	ses-1	7	1	0	881847994	3555812	2150.0	307.14285714285717	2667168	381024.0	CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1075	{"2.0":7}	anat,func
+ds003020	sub-UTS03	ses-10	7	0	0	1400127470	0	4510.0	644.2857142857143	2667168	381024.0	catfishingstrangerstofindmyself,christmas1940,gpsformylostidentity,singlewomanseekingmanwich,superheroesjustforeachother,whenmothersbullyback,wheretheressmoke	2255	{"2.0":7}	func
+ds003020	sub-UTS03	ses-11	7	0	0	1441389103	0	4624.0	660.5714285714286	2667168	381024.0	againstthewind,bluehope,forgettingfear,ifthishaircouldtalk,lifereimagined,stumblinginthedark,wheretheressmoke	2312	{"2.0":7}	func
+ds003020	sub-UTS03	ses-12	5	0	0	1230331610	0	3954.0	790.8	1905120	381024.0	cocoonoflove,comingofageondeathrow,goldiethegoldfish,leavingbaghdad,quietfire	1977	{"2.0":5}	func
+ds003020	sub-UTS03	ses-14	6	0	0	1194009019	0	3832.0	638.6666666666666	2286144	381024.0	afatherscover,food,mybackseatviewofagreatromance,notontheusualtour,reachingoutbetweenthebars,wildwomenanddancingqueens	1916	{"2.0":6}	func
+ds003020	sub-UTS03	ses-15	6	0	0	1166814273	0	3782.0	630.3333333333334	2286144	381024.0	beneaththemushroomcloud,gangstersandcookies,golfclubbing,metsmagic,threemonths,vixenandtheussr	1891	{"2.0":6}	func
+ds003020	sub-UTS03	ses-18	6	0	0	1198565894	0	3884.0	647.3333333333334	2286144	381024.0	birthofanation,firetestforlove,listo,myfathershands,theadvancedbeginner,theshower	1942	{"2.0":6}	func
+ds003020	sub-UTS03	ses-2	6	0	0	1863608183	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS03	ses-20	6	0	0	1173951263	0	3794.0	632.3333333333334	2286144	381024.0	cautioneating,jugglingandjesus,mayorofthefreaks,thecurse,theinterview,thetriangleshirtwaistconnection	1897	{"2.0":6}	func
+ds003020	sub-UTS03	ses-3	6	0	0	1859354475	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS03	ses-4	6	0	0	1843010952	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS03	ses-5	8	0	0	2197705627	0	5450.0	681.25	3048192	381024.0	AuditoryLocalizer,adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2725	{"2.0":8}	func
+ds003020	sub-UTS03	ses-6	6	0	0	1841268792	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS03	ses-7	6	0	0	1422163456	0	4600.0	766.6666666666666	2286144	381024.0	breakingupintheageofgoogle,onlyonewaytofindout,penpal,shoppinginchina,treasureisland,wheretheressmoke	2300	{"2.0":6}	func
+ds003020	sub-UTS03	ses-8	7	0	0	1419044047	0	4568.0	652.5714285714286	2667168	381024.0	backsideofthestorm,goingthelibertyway,kiksuya,sweetaspie,thepostmanalwayscalls,thetiniestbouquet,wheretheressmoke	2284	{"2.0":7}	func
+ds003020	sub-UTS03	ses-9	6	0	0	1397150101	0	4514.0	752.3333333333334	2286144	381024.0	becomingindian,lifeanddeathontheoregontrail,thefreedomridersandme,thumbsup,waitingtogo,wheretheressmoke	2257	{"2.0":6}	func
+ds003020	sub-UTS04	ses-1	8	1	0	1145258617	3628669	2800.0	350.0	3048192	381024.0	CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1400	{"2.0":8}	anat,func
+ds003020	sub-UTS04	ses-2	7	0	0	2121043576	0	5190.0	741.4285714285714	2667168	381024.0	AuditoryLocalizer,alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2595	{"2.0":7}	func
+ds003020	sub-UTS04	ses-3	5	0	0	1536153480	0	3658.0	731.6	1905120	381024.0	howtodraw,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	1829	{"2.0":5}	func
+ds003020	sub-UTS04	ses-4	6	0	0	1895492801	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS04	ses-5	7	0	0	2009247207	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS04	ses-6	6	0	0	1926620577	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS05	ses-1	8	1	0	1125528715	3165682	2840.0	355.0	3048192	381024.0	AudioMotorLocalizer,CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3	1420	{"2.0":8}	anat,func
+ds003020	sub-UTS05	ses-2	6	0	0	1820532460	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS05	ses-3	6	0	0	1815072580	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS05	ses-4	6	0	0	1813177687	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS05	ses-5	7	0	0	1924399183	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS05	ses-6	6	0	0	1833958441	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS05	ses-7	1	0	0	249728173	0	630.0	630.0	381024	381024.0	AuditoryLocalizer	315	{"2.0":1}	func
+ds003020	sub-UTS06	ses-1	8	1	0	1106856532	2765677	2800.0	350.0	3048192	381024.0	CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1400	{"2.0":8}	anat,func
+ds003020	sub-UTS06	ses-2	6	0	0	1803928047	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS06	ses-3	6	0	0	1822449366	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS06	ses-4	6	0	0	1810567693	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS06	ses-5	7	0	0	1926834077	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS06	ses-6	6	0	0	1814313372	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS06	ses-7	1	0	0	249814027	0	630.0	630.0	381024	381024.0	AuditoryLocalizer	315	{"2.0":1}	func
+ds003020	sub-UTS07	ses-1	8	1	0	1169764503	3996168	2800.0	350.0	3048192	381024.0	CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1400	{"2.0":8}	anat,func
+ds003020	sub-UTS07	ses-2	6	0	0	1906205927	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS07	ses-3	6	0	0	1900062724	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS07	ses-4	6	0	0	1888729921	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS07	ses-5	7	0	0	2035442017	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS07	ses-6	6	0	0	1920659947	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS07	ses-7	1	0	0	262696286	0	630.0	630.0	381024	381024.0	AuditoryLocalizer	315	{"2.0":1}	func
+ds003020	sub-UTS08	ses-1	8	1	0	1169205738	3565018	2800.0	350.0	3048192	381024.0	CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1400	{"2.0":8}	anat,func
+ds003020	sub-UTS08	ses-2	6	0	0	1879602167	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS08	ses-3	7	0	0	2155468476	0	5188.0	741.1428571428571	2667168	381024.0	AuditoryLocalizer,howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2594	{"2.0":7}	func
+ds003020	sub-UTS08	ses-4	6	0	0	1900444430	0	4558.0	759.6666666666666	2286144	381024.0	exorcism,fromboyhoodtofatherhood,sloth,stagefright,tildeath,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS08	ses-5	7	0	0	2000557499	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS08	ses-6	6	0	0	1904228673	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS09	ses-1	9	1	0	1100140770	3720461	3430.0	381.1111111111111	3429216	381024.0	AuditoryLocalizer,CategoryLocalizer1,CategoryLocalizer2,CategoryLocalizer3,MotorLocalizer	1715	{"2.0":9}	anat,func
+ds003020	sub-UTS09	ses-10	6	0	0	1235701232	0	3888.0	648.0	2286144	381024.0	catfishingstrangerstofindmyself,christmas1940,gpsformylostidentity,singlewomanseekingmanwich,superheroesjustforeachother,whenmothersbullyback	1944	{"2.0":6}	func
+ds003020	sub-UTS09	ses-11	6	0	0	1230735343	0	4002.0	667.0	2286144	381024.0	againstthewind,bluehope,forgettingfear,ifthishaircouldtalk,lifereimagined,stumblinginthedark	2001	{"2.0":6}	func
+ds003020	sub-UTS09	ses-2	6	0	0	1439995512	0	4560.0	760.0	2286144	381024.0	alternateithicatom,avatar,legacy,odetostepfather,souls,wheretheressmoke	2280	{"2.0":6}	func
+ds003020	sub-UTS09	ses-3	6	0	0	1443046601	0	4558.0	759.6666666666666	2286144	381024.0	howtodraw,life,myfirstdaywiththeyankees,naked,undertheinfluence,wheretheressmoke	2279	{"2.0":6}	func
+ds003020	sub-UTS09	ses-4	5	0	0	1213424474	0	3822.0	764.4	1905120	381024.0	exorcism,sloth,stagefright,tildeath,wheretheressmoke	1911	{"2.0":5}	func
+ds003020	sub-UTS09	ses-5	7	0	0	1527485412	0	4820.0	688.5714285714286	2667168	381024.0	adollshouse,adventuresinsayingyes,buck,haveyoumethimyet,inamoment,theclosetthatateeverything,wheretheressmoke	2410	{"2.0":7}	func
+ds003020	sub-UTS09	ses-6	6	0	0	1447550563	0	4576.0	762.6666666666666	2286144	381024.0	eyespy,hangtime,itsabox,swimmingwithastronauts,thatthingonmyarm,wheretheressmoke	2288	{"2.0":6}	func
+ds003020	sub-UTS09	ses-7	5	0	0	1262334465	0	3978.0	795.6	1905120	381024.0	breakingupintheageofgoogle,onlyonewaytofindout,penpal,shoppinginchina,treasureisland	1989	{"2.0":5}	func
+ds003020	sub-UTS09	ses-8	6	0	0	1249874322	0	3946.0	657.6666666666666	2286144	381024.0	backsideofthestorm,goingthelibertyway,kiksuya,sweetaspie,thepostmanalwayscalls,thetiniestbouquet	1973	{"2.0":6}	func
+ds003020	sub-UTS09	ses-9	5	0	0	1181776516	0	3892.0	778.4	1905120	381024.0	becomingindian,lifeanddeathontheoregontrail,thefreedomridersandme,thumbsup,waitingtogo	1946	{"2.0":5}	func
